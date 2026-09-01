@@ -64,9 +64,12 @@ That job:
 2. Queries TheirStack / Coresignal / JobsPipe when the matching secret is set
 3. Writes `data/jobs.json` and `docs/jobs.json`
 4. Commits the snapshot back to the repo
-5. Deploys `docs/` to GitHub Pages
 
-Enable Pages once: **Settings → Pages → Source: GitHub Actions**.
+The dashboard is the `docs/` folder. Enable it once:
+
+**Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / folder: `/docs` → Save**
+
+Site URL: [https://varunjose.github.io/JobsAggregator2/](https://varunjose.github.io/JobsAggregator2/)
 
 Scheduled workflows on GitHub can lag by several minutes. Trigger **Actions → Ingest US jobs → Run workflow** to run immediately.
 
