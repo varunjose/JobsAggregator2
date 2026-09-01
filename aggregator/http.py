@@ -6,7 +6,7 @@ from typing import Any, Optional
 import httpx
 
 DEFAULT_UA = (
-    "JobsAggregator/1.0 (+https://github.com/varunjose/JobsAggregator)"
+    "JobsAggregator/1.0 (+https://github.com/varunjose/JobsAggregator2)"
 )
 BROWSER_UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

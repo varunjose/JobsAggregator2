@@ -19,7 +19,7 @@ SmartRecruiters / Workable / others
      docs/ dashboard  (GitHub Pages)
 ```
 
-Live repo: [github.com/varunjose/JobsAggregator](https://github.com/varunjose/JobsAggregator)
+Live repo: [github.com/varunjose/JobsAggregator2](https://github.com/varunjose/JobsAggregator2)
 
 ## Unified job record
 
