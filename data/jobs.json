@@ -1,27 +1,5 @@
 [
   {
-    "job_id": "workday:target:['R0000450030']:Posted Today",
-    "title": "Executive Team Leader Service & Engagement (Assistant Manager Front End)- Cypress",
-    "company": "Target",
-    "location": "6835 Katella Ave, Cypress,CA 90630-5107",
-    "country": "US",
-    "remote": false,
-    "ats": "workday",
-    "source": "company-career-page",
-    "posted_at": "2026-09-27T00:20:37.285679+00:00",
-    "discovered_at": "2026-09-27T00:20:37.285721+00:00",
-    "description": "",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "apply_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/6835-Katella-Ave-CypressCA-90630-5107/Executive-Team-Leader-Service---Engagement--Assistant-Manager-Front-End---Cypress_R0000450030",
-    "original_url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/6835-Katella-Ave-CypressCA-90630-5107/Executive-Team-Leader-Service---Engagement--Assistant-Manager-Front-End---Cypress_R0000450030",
-    "is_active": true,
-    "department": null,
-    "score": 0.0,
-    "score_reasons": []
-  },
-  {
     "job_id": "greenhouse:8006339003",
     "title": "Senior Flight Software Engineer",
     "company": "Varda Space Industries",
@@ -31,7 +9,7 @@
     "ats": "greenhouse",
     "source": "company-career-page",
     "posted_at": "2026-09-26T16:45:21+00:00",
-    "discovered_at": "2026-09-27T00:20:26.815430+00:00",
+    "discovered_at": "2026-09-27T07:46:42.589760+00:00",
     "description": "",
     "salary_min": null,
     "salary_max": null,
@@ -56,7 +34,7 @@
     "ats": "greenhouse",
     "source": "company-career-page",
     "posted_at": "2026-09-26T16:36:52+00:00",
-    "discovered_at": "2026-09-27T00:20:26.815371+00:00",
+    "discovered_at": "2026-09-27T07:46:42.589675+00:00",
     "description": "",
     "salary_min": null,
     "salary_max": null,
@@ -69,31 +47,6 @@
     "score_reasons": [
       "title:software engineer",
       "skills:engineer,software"
-    ]
-  },
-  {
-    "job_id": "ashby:b99ba76c-0938-4a41-931b-d1fb2543126c",
-    "title": "Staff Software Engineer - Postgres Control Plane",
-    "company": "Snowflake",
-    "location": "US-WA-Bellevue",
-    "country": "US",
-    "remote": false,
-    "ats": "ashby",
-    "source": "company-career-page",
-    "posted_at": "2026-09-26T01:52:40.218000+00:00",
-    "discovered_at": "2026-09-27T00:20:33.917206+00:00",
-    "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don\u2019t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset \u2014 who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done. Snowflake is now building a world class OLTP service on Postgres. We\u2019re hiring Senior Postgres Engineers to help build the new Snowflake Postgres service. This is an exciting opportunity to help build a large scale, multi-cloud Postgres offering with access to an existing customer base. AS A SENIOR POSTGRES ENGINEER YOU WILL: Develop orchestration layer/ control-plane of large scale databases Work with AWS, Azure, and GCP APIs Build High Availability and Disaster Recovery solutions Tune Postgres to operate at scale for some of the largest datasets in the world Secure and ensure customer data is protected Work alongside some of the brightest minds in the industry and help redefine the space by inventing at various layers of the software stack \u2014 from broad distributed systems to low-level optimizations that fundamentally change the performance characteristics of the system to cater to our customer needs. OUR IDEAL SENIOR POSTGRES ENGINEER WILL HAVE: 7+ years industry experience designing, building and developing large scale systems in production Experience building and maintaini\u2026",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "apply_url": "https://jobs.ashbyhq.com/snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c",
-    "original_url": "https://jobs.ashbyhq.com/snowflake/b99ba76c-0938-4a41-931b-d1fb2543126c",
-    "is_active": true,
-    "department": "Engineering",
-    "score": 11.2,
-    "score_reasons": [
-      "title:software engineer",
-      "skills:data,databases,engineer,python,skills,software"
     ]
   }
 ]
