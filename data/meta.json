@@ -1,11 +1,11 @@
 {
-  "started_at": "2026-09-29T08:03:42.490737+00:00",
+  "started_at": "2026-09-29T16:23:01.703015+00:00",
   "companies": 398,
   "source_counts": {
     "theirstack": 0,
     "coresignal": 0,
     "jobspipe": 0,
-    "ats": 37210
+    "ats": 37178
   },
   "errors": [],
   "skipped_no_key": [
@@ -13,17 +13,17 @@
     "coresignal (no key or empty)",
     "jobspipe (no key or empty)"
   ],
-  "finished_at": "2026-09-29T08:04:09.762074+00:00",
-  "raw_jobs": 29901,
-  "kept_jobs": 49,
+  "finished_at": "2026-09-29T16:23:27.475413+00:00",
+  "raw_jobs": 29860,
+  "kept_jobs": 52,
   "posted_within_hours": 24,
   "ats_breakdown": {
-    "smartrecruiters": 7,
-    "greenhouse": 36,
-    "ashby": 6
+    "greenhouse": 38,
+    "ashby": 6,
+    "smartrecruiters": 8
   },
   "layer_breakdown": {
-    "company-career-page": 49
+    "company-career-page": 52
   },
   "resume_file": "resume.example.md"
 }
