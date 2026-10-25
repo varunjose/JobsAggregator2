@@ -1,5 +1,5 @@
 {
-  "started_at": "2026-10-25T13:01:42.239225+00:00",
+  "started_at": "2026-10-25T17:28:48.862884+00:00",
   "companies": 398,
   "source_counts": {
     "theirstack": 0,
@@ -13,16 +13,16 @@
     "coresignal (no key or empty)",
     "jobspipe (no key or empty)"
   ],
-  "finished_at": "2026-10-25T13:02:02.684317+00:00",
-  "raw_jobs": 30541,
-  "kept_jobs": 5,
+  "finished_at": "2026-10-25T17:29:09.959534+00:00",
+  "raw_jobs": 30542,
+  "kept_jobs": 4,
   "posted_within_hours": 24,
   "ats_breakdown": {
-    "greenhouse": 4,
+    "greenhouse": 3,
     "workday": 1
   },
   "layer_breakdown": {
-    "company-career-page": 5
+    "company-career-page": 4
   },
   "resume_file": "resume.example.md"
 }
