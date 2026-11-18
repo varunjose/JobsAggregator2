@@ -1,11 +1,11 @@
 {
-  "started_at": "2026-11-18T03:23:51.899421+00:00",
+  "started_at": "2026-11-18T12:45:32.085049+00:00",
   "companies": 398,
   "source_counts": {
     "theirstack": 0,
     "coresignal": 0,
     "jobspipe": 0,
-    "ats": 36515
+    "ats": 36538
   },
   "errors": [],
   "skipped_no_key": [
@@ -13,8 +13,8 @@
     "coresignal (no key or empty)",
     "jobspipe (no key or empty)"
   ],
-  "finished_at": "2026-11-18T03:24:22.009184+00:00",
-  "raw_jobs": 29441,
+  "finished_at": "2026-11-18T12:45:59.781103+00:00",
+  "raw_jobs": 29465,
   "kept_jobs": 36,
   "posted_within_hours": 24,
   "ats_breakdown": {
