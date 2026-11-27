@@ -1,5 +1,31 @@
 [
   {
+    "job_id": "greenhouse:8199161003",
+    "title": "Senior Software Engineer, Backend (Trust Infra)",
+    "company": "Affirm",
+    "location": "Remote US",
+    "country": "US",
+    "remote": true,
+    "ats": "greenhouse",
+    "source": "company-career-page",
+    "posted_at": "2026-11-27T13:42:35+00:00",
+    "discovered_at": "2026-11-27T20:50:49.239674+00:00",
+    "description": "",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8199161003",
+    "original_url": "https://job-boards.greenhouse.io/affirm/jobs/8199161003",
+    "is_active": true,
+    "department": null,
+    "score": 9.9,
+    "score_reasons": [
+      "title:software engineer",
+      "title:backend",
+      "skills:engineer,software"
+    ]
+  },
+  {
     "job_id": "greenhouse:8283619",
     "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
     "company": "Roblox",
@@ -9,7 +35,7 @@
     "ats": "greenhouse",
     "source": "company-career-page",
     "posted_at": "2026-11-26T22:20:18+00:00",
-    "discovered_at": "2026-11-27T10:38:23.894494+00:00",
+    "discovered_at": "2026-11-27T20:50:49.854615+00:00",
     "description": "",
     "salary_min": null,
     "salary_max": null,
@@ -22,31 +48,6 @@
     "score_reasons": [
       "title:software engineer",
       "skills:engineer,software"
-    ]
-  },
-  {
-    "job_id": "greenhouse:8197871003",
-    "title": "Data Scientist",
-    "company": "SoFi",
-    "location": "Cottonwood Heights, Utah, United States, Jacksonville - FL",
-    "country": "US",
-    "remote": false,
-    "ats": "greenhouse",
-    "source": "company-career-page",
-    "posted_at": "2026-11-26T19:27:51+00:00",
-    "discovered_at": "2026-11-27T10:38:24.282194+00:00",
-    "description": "",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "apply_url": "https://sofi.com/careers/job/8197871003?gh_jid=8197871003",
-    "original_url": "https://sofi.com/careers/job/8197871003?gh_jid=8197871003",
-    "is_active": true,
-    "department": null,
-    "score": 6.2,
-    "score_reasons": [
-      "title:data scientist",
-      "skills:data"
     ]
   }
 ]
