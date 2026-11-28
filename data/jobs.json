@@ -1,29 +1,5 @@
 [
   {
-    "job_id": "workday:salesforce:['JR368557']:Posted Today",
-    "title": "Software Engineering PMTS",
-    "company": "Salesforce",
-    "location": "California - San Francisco",
-    "country": "US",
-    "remote": false,
-    "ats": "workday",
-    "source": "company-career-page",
-    "posted_at": "2026-11-28T03:46:22.512910+00:00",
-    "discovered_at": "2026-11-28T03:46:22.512936+00:00",
-    "description": "",
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "apply_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR368557",
-    "original_url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR368557",
-    "is_active": true,
-    "department": null,
-    "score": 2.4,
-    "score_reasons": [
-      "skills:engineering,software"
-    ]
-  },
-  {
     "job_id": "greenhouse:8199161003",
     "title": "Senior Software Engineer, Backend (Trust Infra)",
     "company": "Affirm",
@@ -33,7 +9,7 @@
     "ats": "greenhouse",
     "source": "company-career-page",
     "posted_at": "2026-11-27T13:42:35+00:00",
-    "discovered_at": "2026-11-28T03:46:12.667171+00:00",
+    "discovered_at": "2026-11-28T12:46:54.448110+00:00",
     "description": "",
     "salary_min": null,
     "salary_max": null,
